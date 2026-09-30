@@ -1,0 +1,10 @@
+{
+  "id": 166391872,
+  "created_at": "2026-09-30T05:03:34.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["unirate-api.r-universe.dev"]
+}
