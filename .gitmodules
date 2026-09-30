@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/unirate-api/unirate-api.r-universe.dev
 	branch = HEAD
+[submodule "unirateapi"]
+	path = unirateapi
+	url = https://github.com/UniRate-API/unirate-api-r
